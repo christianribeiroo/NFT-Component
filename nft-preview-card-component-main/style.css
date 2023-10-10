@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+
+.card {
+    width: 80%;
+    max-width: 350px;
+    padding: 30px;
+
+    background: hsl(216, 50%, 16%);
+    width: 80%vw;
+    border-radius: 20px; 
+    height: 65vh; 
+    box-shadow: 20px 10px 10px rgba(0, 0, 0, 0.295);
+} 
+
+
+img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+h2 {
+    color: white;
+    margin-left: 1%;
+    margin-top: 5%;
+}
+
+#eth {
+    margin: auto 3%;
+    margin-right: 30px;
+    color: hsl(178, 100%, 50%);
+}
+
+
+#days {
+    margin: auto 2%;
+}
+
+p {
+    margin-left: 1%;
+    font-size: 18px;
+    font-weight: 400;
+    color: hsla(215, 39%, 64%, 0.767);
+}
+
+.avatar {
+    height: 30px;
+    width: 30px;
+    margin-top: 5px;
+    margin-left: 1%;
+}
+
+
+#time {
+    margin-left: 60px;
+}
+
+#texto {
+    margin-top: -14%;
+    margin-left: 13%;
+}
+
+.line {
+    margin: auto;
+    background-color: hsl(215, 32%, 27%);
+    margin-top: 5%;
+    width: 350px;
+    height: 1px;
+}
+
+
+#creation {
+    color: hsl(215, 51%, 70%);
+}
+
+#jules {
+    color: rgb(255, 255, 255);
+}
+
