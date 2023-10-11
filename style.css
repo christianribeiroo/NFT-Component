@@ -16,7 +16,7 @@ body {
     padding: 30px;
 
     background: hsl(216, 50%, 16%);
-    width: 80%vw;
+    width: 80%;
     border-radius: 20px; 
     height: 65vh; 
     box-shadow: 20px 10px 10px rgba(0, 0, 0, 0.295);
